@@ -29,9 +29,9 @@
 ## Conéctate conmigo 🤝
 
 - ✉️ erikcodedeveloper@gmail.com
-- 🐙 github.com/ErikWebDeveloper
+- 🐙 www.github.com/ErikWebDeveloper
 - 🌐 www.erikwebdeveloperportfolio.web.app
-- 📷 @e.webcodedeveloper
+- 📷 www.instagram.com/e.webcodedeveloper/
 
 
 Siéntete libre de contactarme por correo electrónico o conectarte a través de GitHub o Instagram para proyectos emocionantes.

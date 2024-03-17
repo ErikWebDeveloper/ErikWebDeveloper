@@ -26,7 +26,7 @@
     🎸 Tocar la guitarra
     🐾 Pasear con los perros
 
-## Conéctate conmigo 🤝
+## Contacta conmigo 🤝
 
 - ✉️ erikcodedeveloper@gmail.com
 - 🐙 www.github.com/ErikWebDeveloper

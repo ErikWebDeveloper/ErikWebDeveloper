@@ -30,7 +30,7 @@
 
 - ✉️ erikcodedeveloper@gmail.com
 - 🐙 www.github.com/ErikWebDeveloper
-- 🌐 www.erikwebdeveloperportfolio.web.app
+- 🌐 www.erikwebdeveloperportfolio.github.io/
 - 📷 www.instagram.com/e.webcodedeveloper/
 
 

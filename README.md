@@ -1,6 +1,8 @@
 # Bienvenido a mi Perfil 👋
 
-¡Bienvenido/a a mi rincón en GitHub! Soy un entusiasta programador y diseñador web, y en este espacio compartiré detalles sobre mi experiencia y proyectos. Explora y descubre más sobre mi apasionado mundo del desarrollo web. ¡Gracias por tu visita! 🚀👨‍💻✨
+¡Bienvenido/a a mi GitHub! Soy programador y diseñador web, y en este espacio compartiré detalles sobre mis proyectos.
+
+¡Gracias por tu visita! 🚀👨‍💻✨
 
 ## Acerca de Mí 🚀
 
@@ -11,10 +13,10 @@
 
 ## Tecnologías que Utilizo 🛠️
 
-    Frontend: HTML, CSS, JavaScript, Bootstrap
+    Frontend: HTML, CSS, JavaScript, Bootstrap, React
     Backend: Node.js, Express, PHP
     Bases de Datos: MongoDB, MySQL
-    Herramientas de Desarrollo: VS Code, Git
+    Herramientas de Desarrollo: VS Code, Git, Docker
 
 ## Contribuciones y Colaboraciones 👥
 

@@ -1,41 +1,44 @@
-# Bienvenido a mi Perfil 👋
+# 👋 Bienvenido a mi Perfil
 
-¡Bienvenido/a a mi GitHub! Soy programador y diseñador web, y en este espacio compartiré detalles sobre mis proyectos.
+¡Bienvenido/a a mi perfil de GitHub!
 
-¡Gracias por tu visita! 🚀👨‍💻✨
+👋 Soy desarrollador web con 5+ años de experiencia en JavaScript, PHP, HTML, CSS y React. 
 
-## Acerca de Mí 🚀
+## 🚀 Acerca de Mí
 
-    💻 Programador Web de Aplicaciones
-    🎨 Diseñador Web Creativo 
-    🌐 Ubicación: Andorra 🇦🇩    
+    🇦🇩 Andorra    
+    💻 Programador de Software
+    🎨 Web App & Mobile App 
 
 
-## Tecnologías que Utilizo 🛠️
+## 🛠️ Tecnologías que Utilizo
 
-    Frontend: HTML, CSS, JavaScript, Bootstrap, React
-    Backend: Node.js, Express, PHP
-    Bases de Datos: MongoDB, MySQL
-    Herramientas de Desarrollo: VS Code, Git, Docker
+- [x] HTML
+- [x] CSS
+- [x] JavaScript
+- [x] React
+- [x] Bootstrap
+- [x] Node.js
+- [x] PHP
+- [x] MongoDB
+- [x] MySQL
+- [x] Docker
+- [x] WordPress
+- [x] Linux
 
-## Contribuciones y Colaboraciones 👥
+## 🎶🎸 Pasatiempos y Gustos Personales
 
-¡Estoy abierto/a a colaboraciones y contribuciones! Si tienes ideas interesantes o proyectos emocionantes, ¡hagámoslo juntos! 🚀
-
-## Pasatiempos y Gustos Personales 🎶🎸
-
-    🎵 Amante de la música
+    💻 Programar
     🎸 Tocar la guitarra
-    🐾 Pasear con los perros
+    🐾 Pasear con mis perros
 
 ## Contacta conmigo 🤝
+
+Siéntete libre de contactarme por correo electrónico o conectarte a través de GitHub o Instagram.
 
 - ✉️ erikcodedeveloper@gmail.com
 - 🐙 www.github.com/ErikWebDeveloper
 - 🌐 [www.erikwebdeveloper.github.io/](https://erikwebdeveloper.github.io/)
 - 📷 www.instagram.com/e.webcodedeveloper/
 
-
-Siéntete libre de contactarme por correo electrónico o conectarte a través de GitHub o Instagram para proyectos emocionantes.
-
-¡Gracias por pasar por aquí! 😊✨
+😊 ¡Gracias por la visita! 

@@ -2,7 +2,7 @@
 
 ¡Bienvenido/a a mi perfil de GitHub!
 
-👋 Soy desarrollador web con 5+ años de experiencia en JavaScript, PHP, HTML, CSS y React. 
+Soy desarrollador web con 5+ años de experiencia en JavaScript, PHP, HTML, CSS y React. 
 
 ## 🚀 Acerca de Mí
 

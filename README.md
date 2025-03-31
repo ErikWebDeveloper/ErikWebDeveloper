@@ -8,9 +8,9 @@ Soy desarrollador web con 5+ años de experiencia en JavaScript, PHP, HTML, CSS 
 
 ## 🚀 Acerca de Mí
 
-    🇦🇩 Andorra    
-    💻 Programador de Software
-    🎨 Web App & Mobile App 
+- 🇦🇩 Andorra    
+- 💻 Programador de Software
+- 🎨 Web App & Mobile App 
 
 
 ## 🛠️ Tecnologías que Utilizo
@@ -30,9 +30,10 @@ Soy desarrollador web con 5+ años de experiencia en JavaScript, PHP, HTML, CSS 
 
 ## 🎶🎸 Pasatiempos y Gustos Personales
 
-    💻 Programar
-    🎸 Tocar la guitarra
-    🐾 Pasear con mis perros
+- 💻 Programar
+- 🎸 Tocar la guitarra
+- 🐾 Pasear con mis perros
+- 🎮 Jugar a videojuegos
 
 ## Contacta conmigo 🤝
 

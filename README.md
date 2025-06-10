@@ -1,47 +1,62 @@
-# 👋 Bienvenido a mi Perfil
+# 👋 ¡Hola! Bienvenido/a a mi perfil
 
-¡Bienvenido/a a mi perfil de GitHub!
+¡Gracias por pasar por aquí! Soy **Erik**, un apasionado desarrollador web full-stack con más de **5 años de experiencia** creando aplicaciones modernas, eficientes y accesibles.
 
-Soy desarrollador web con 5+ años de experiencia en JavaScript, PHP, HTML, CSS y React. 
+🎯 Me encanta transformar ideas en soluciones digitales usando tecnologías como **JavaScript**, **PHP**, **React** y mucho más.
 
-👉 [🌐 Hecha un vistazo a mi porfolio](https://erikwebdeveloper.github.io)
+👉 [🌐 Visita mi portafolio](https://erikwebdeveloper.github.io)
 
-## 🚀 Acerca de Mí
+---
 
-- 🇦🇩 Andorra    
-- 💻 Programador de Software
-- 🎨 Web App & Mobile App 
+## 🚀 Sobre mí
 
+- 📍 Vivo en **Andorra** 🇦🇩  
+- 💻 Desarrollador de **Web Apps** y **Mobile Apps**  
+- 💡 Apasionado por el diseño, la lógica y la eficiencia  
+- 🍥 Fan del anime
+- 🌱 Siempre aprendiendo algo nuevo
 
-## 🛠️ Tecnologías que Utilizo
+---
 
-- [x] HTML
-- [x] CSS
-- [x] JavaScript
-- [x] React
-- [x] Bootstrap
-- [x] Node.js
-- [x] PHP
-- [x] MongoDB
-- [x] MySQL
-- [x] Docker
-- [x] WordPress
-- [x] Linux
+## 🛠️ Tecnologías que uso con cariño
 
-## 🎶🎸 Pasatiempos y Gustos Personales
+| Frontend       | Backend        | Base de datos   | Herramientas Dev |
+|----------------|----------------|-----------------|------------------|
+| HTML5          | PHP            | MySQL           | Git              |
+| CSS3 / SASS    | Node.js        | MongoDB         | Docker           |
+| JavaScript     | Express        | SQLite          | Linux            |
+| React          | WordPress      | Firebase        | VSCode          |
+| Bootstrap      |                |                 | Nginx (básico)   |
 
-- 💻 Programar
-- 🎸 Tocar la guitarra
-- 🐾 Pasear con mis perros
-- 🎮 Jugar a videojuegos
+---
 
-## Contacta conmigo 🤝
+## 🎮 Pasatiempos y cosas que disfruto
 
-Siéntete libre de contactarme por correo electrónico o conectarte a través de GitHub o Instagram.
+- 💻 Programar por diversión (¡sí, también en mis ratos libres!)
+- 🎸 Tocar la guitarra para relajarme
+- 🐶 Pasear con mis perros
+- 🎮 Disfrutar videojuegos retro y modernos
+- 🍿 Ver **anime** 😄
 
-- ✉️ erikcodedeveloper@gmail.com
-- 🐙 www.github.com/ErikWebDeveloper
-- 🌐 [www.erikwebdeveloper.github.io/](https://erikwebdeveloper.github.io/)
-- 📷 www.instagram.com/e.webcodedeveloper/
+---
 
-😊 ¡Gracias por la visita! 
+## 📬 Contacta conmigo
+
+¡Estoy abierto a colaborar, aprender o simplemente charlar!  
+Puedes escribirme o seguirme en redes:
+
+- 📧 Email: **erikcodedeveloper@gmail.com**
+- 🐙 GitHub: [@ErikWebDeveloper](https://github.com/ErikWebDeveloper)
+- 🌐 Portfolio: [erikwebdeveloper.github.io](https://erikwebdeveloper.github.io/)
+- 📸 Instagram: [@e.webcodedeveloper](https://www.instagram.com/e.webcodedeveloper/)
+
+---
+
+## 💬 Último mensaje
+
+> _"La mejor forma de predecir el futuro... es programarlo."_  
+> — Alan Kay
+
+---
+
+😊 ¡Gracias por visitar mi perfil! ¡Vuelve pronto y feliz codificación!

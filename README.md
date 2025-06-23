@@ -44,12 +44,10 @@
 ## 📬 Contacta conmigo
 
 ¡Estoy abierto a colaborar, aprender o simplemente charlar!  
-Puedes escribirme o seguirme en redes:
 
 - 📧 Email: **erikcodedeveloper@gmail.com**
 - 🐙 GitHub: [@ErikWebDeveloper](https://github.com/ErikWebDeveloper)
 - 🌐 Portfolio: [erikwebdeveloper.github.io](https://erikwebdeveloper.github.io/)
-- 📸 Instagram: [@e.webcodedeveloper](https://www.instagram.com/e.webcodedeveloper/)
 
 ---
 

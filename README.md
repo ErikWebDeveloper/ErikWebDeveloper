@@ -1,9 +1,6 @@
-### 👋 ¡Hola!¡ Gracias por pasar por aquí! Soy **Erik**, un apasionado desarrollador web full-stack con más de **5 años de experiencia** creando aplicaciones modernas, eficientes y accesibles.
+### 👋 ¡Hola!¡ Gracias por pasar por aquí! 
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHVxbXcwdTY1cnlqdTExN293dHhlaGNvYWFwdzhzYzl0MHhxODc2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvFocn0wNMx0iv2rYz/giphy.gif" alt="Descripción" style="width: 50px" />
-
-
-🎯 Me encanta transformar ideas en soluciones digitales usando tecnologías como **JavaScript**, **PHP**, **React** y mucho más.
+Soy **Erik**, un apasionado desarrollador web full-stack con más de **5 años de experiencia** creando aplicaciones modernas, eficientes y accesibles.
 
 👉 [🌐 Visita mi portafolio](https://erikwebdeveloper.github.io)
 

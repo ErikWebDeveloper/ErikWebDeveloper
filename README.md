@@ -21,13 +21,16 @@
 ## 🛠️ Tecnologías que uso con cariño
 
 
-| Frontend       | Backend        | Base de datos   | Herramientas Dev |
-|----------------|----------------|-----------------|------------------|
-| HTML5          | PHP            | MySQL           | Git              |
-| CSS3 / SASS    | Node.js        | MongoDB         | Docker           |
-| JavaScript     | Express        | SQLite          | Linux            |
-| React          | WordPress      | Firebase (básico)| VSCode          |
-| Bootstrap      |                |                 | Nginx (básico)   |
+| Frontend           | Backend         | Base de datos        | Herramientas Dev    |
+|--------------------|-----------------|-----------------------|----------------------|
+| HTML5              | Node.js         | MySQL                 | Git                  |
+| CSS3 / SASS        | Express         | SQLite                | Linux                |
+| JavaScript         | WordPress       | Firebase              | VSCode               |
+| React              | Strapi 5        | Supabase              | Nginx                |
+| Bootstrap          |                 |                       |                      |
+| TypeScript (básico)|                 |                       |                      |
+|                    | PHP (básico)    | MongoDB (básico)      | Docker (básico)      |
+  |
 
 ---
 

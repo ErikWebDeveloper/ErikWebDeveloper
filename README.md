@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Bienvenido/a a mi perfil
 ![Portada](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXBwcGIycGtlbzF2ejNpNGQzYTVxeGgybG9mcDliemNvcng0azk1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)
 
-<img src="https://ruta-del-gif.gif" alt="Descripción" style="width: 100%;" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXBwcGIycGtlbzF2ejNpNGQzYTVxeGgybG9mcDliemNvcng0azk1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" alt="Descripción" style="width: 100%;" />
 
 
 ¡Gracias por pasar por aquí! Soy **Erik**, un apasionado desarrollador web full-stack con más de **5 años de experiencia** creando aplicaciones modernas, eficientes y accesibles.

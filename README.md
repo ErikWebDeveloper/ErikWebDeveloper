@@ -28,8 +28,6 @@ Soy **Erik**, un apasionado desarrollador web full-stack con más de **5 años d
 | Bootstrap          | PHP (básico)             | MongoDB (básico)               | Docker (básico)             |
 | TypeScript (básico)|                           |                                |                             |
 
-  |
-
 ---
 
 ## 🎮 Pasatiempos y cosas que disfruto

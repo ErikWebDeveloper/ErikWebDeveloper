@@ -1,5 +1,5 @@
 ### 👋 ¡Hola!
-### ¡Gracias por pasar por aquí! 
+### 🙌 ¡Gracias por pasar por aquí! 
 
 Soy **Erik**, un apasionado desarrollador web full-stack con más de **5 años de experiencia** creando aplicaciones modernas, eficientes y accesibles.
 

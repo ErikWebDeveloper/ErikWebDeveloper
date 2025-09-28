@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/erikwebdeveloper.png" alt="Erik Firmino" width="160" height="160" style="border-radius:50%; margin-bottom:12px;">
+  <img src="https://github.com/erikwebdeveloper.png" alt="Erik Firmino" width="160" height="160" style="border-radius:99999px; margin-bottom:12px;">
 </p>
 
 <div align="center">
@@ -15,57 +15,49 @@ Autodidacta, apasionado por la programación y siempre buscando **nuevos retos**
 
 </div>
 
----
-
-## 🚀 Sobre mí
-
-- 📍 Vivo en **Andorra** 🇦🇩  
-- 💻 Desarrollador de **Web Apps** y **Mobile Apps**  
-- 💡 Apasionado por el diseño, la lógica y la eficiencia  
-- 🍥 Fan del anime
-- 🌱 Siempre aprendiendo algo nuevo
-
----
-
-## 🛠️ Tecnologías que uso con cariño
+<p align="center">
+  <img src="https://img.shields.io/badge/📍_Vivo_en-🇦🇩_Andorra-blue?style=for-the-badge" alt="Andorra" />
+  <img src="https://img.shields.io/badge/💻_Desarrollador-Web_&_Mobile_Apps-brightgreen?style=for-the-badge" alt="Web & Mobile Apps" />
+  <img src="https://img.shields.io/badge/💡_Apasionado_por-Diseño_|_Lógica_|_Eficiencia-yellow?style=for-the-badge" alt="Diseño Lógica Eficiencia" />
+  <img src="https://img.shields.io/badge/🍥_Fan_del-Anime-pink?style=for-the-badge" alt="Fan del Anime" />
+  <img src="https://img.shields.io/badge/🌱_Siempre-Aprendiendo-9cf?style=for-the-badge" alt="Siempre aprendiendo" />
+  <img src="https://img.shields.io/badge/🎮_Me_encanta-Jugar_a_Videojuegos-purple?style=for-the-badge" alt="Videojuegos" />
+  <img src="https://img.shields.io/badge/🐾_Amante_de-Los_Animales-orange?style=for-the-badge" alt="Animales" />
+  <img src="https://img.shields.io/badge/🎸_Me_encanta-Tocar_la_Guitarra-red?style=for-the-badge" alt="Me encanta tocar la guitarra" />
+</p>
 
 
-| Frontend           | Backend                  | Base de datos                  | Herramientas Dev           |
-|--------------------|---------------------------|--------------------------------|-----------------------------|
-| HTML5              | Node.js                  | MySQL                          | Git                         |
-| CSS3 / SASS        | Express                  | SQLite                         | Linux                       |
-| JavaScript         | WordPress                | Firebase                       | VSCode                      |
-| React              | Strapi 5                 | Supabase                       | Nginx                       |
-| Bootstrap          | PHP (básico)             | MongoDB (básico)               | Docker (básico)             |
-| TypeScript (básico)|                           |                                |                             |
+## 🛠️ Tecnologías
 
----
+<div align="center">
+  
+| Frontend           | Backend     | Base de datos | Herramientas Dev           |
+|--------------------|------------|---------------|----------------------------|
+| HTML5              | Node.js    | MySQL         | Git                        |
+| CSS3 / SASS        | Express    | SQLite        | Linux                      |
+| JavaScript         | WordPress  | Firebase      | VSCode                     |
+| React              | Strapi 5   | Supabase      | Nginx                      |
+| Bootstrap          | PHP        | MongoDB       | Docker                     |
+| TypeScript         |            |               |                            |
+| Astro              |            |               |                            |
+| Tailwind           |            |               |                            |
 
-## 🎮 Pasatiempos y cosas que disfruto
+</div>
 
-- 💻 Programar por diversión (¡sí, también en mis ratos libres!)
-- 🎸 Tocar la guitarra para relajarme
-- 🐶 Pasear con mis perros
-- 🎮 Disfrutar videojuegos retro y modernos
-- 🍿 Ver **anime** 😄
-
----
 
 ## 📬 Contacta conmigo
 
-¡Estoy abierto a colaborar, aprender o simplemente charlar!  
+¡Estoy abierto a colaborar, aprender o simplemente charlar sobre ideas interesantes!  
 
 - 📧 Email: [erikcodedeveloper](mailto:erikcodedeveloper@gmail.com)
 - 🐙 GitHub: [@ErikWebDeveloper](https://github.com/ErikWebDeveloper)
 - 🌐 Portfolio: [erikwebdeveloper.github.io](https://erikwebdeveloper.github.io/)
 
----
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzBubTNqeWN1aXltZmo1cmJjMnZuaHk3ZGtmOTFmNDg4YjMzM2llbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ixmzSYVKYrHgc/giphy.gif" 
+       alt="Goku GIF" width="300" />
+</p>
 
-## 💬 Último mensaje
-
-> _"La mejor forma de predecir el futuro... es programarlo."_  
-> — Alan Kay
-
----
-
-😊 ¡Gracias por visitar mi perfil! ¡Vuelve pronto y feliz codificación!
+<p align="center">
+  🇯🇵 Arigato gozaimas! 🙏
+</p>

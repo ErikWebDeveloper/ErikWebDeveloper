@@ -1,6 +1,19 @@
-### 👋 ¡Hola! Soy **Erik**, un apasionado desarrollador web full-stack con más de **5 años de experiencia** creando aplicaciones modernas, eficientes y accesibles.
+<p align="center">
+  <img src="https://github.com/erikwebdeveloper.png" alt="Erik Firmino" width="160" height="160" style="border-radius:50%; margin-bottom:12px;">
+</p>
 
-👉 [🌐 Visita mi portafolio](https://erikwebdeveloper.github.io)
+<div align="center">
+
+# 👋 Hola, soy **Erik Firmino**
+
+### 💻 Software Developer | 🚀 Web & Mobile Apps
+
+🇦🇩 Andorra · ✉️ [Contacto](mailto:erikcodedeveloper@gmail.com) · 🌐 [Mi Portfolio](https://erikwebdeveloper.github.io/)
+
+Soy desarrollador web con más de **5 años de experiencia** creando aplicaciones y soluciones digitales.  
+Autodidacta, apasionado por la programación y siempre buscando **nuevos retos** 🚀.
+
+</div>
 
 ---
 
@@ -42,7 +55,7 @@
 
 ¡Estoy abierto a colaborar, aprender o simplemente charlar!  
 
-- 📧 Email: **erikcodedeveloper@gmail.com**
+- 📧 Email: [erikcodedeveloper](mailto:erikcodedeveloper@gmail.com)
 - 🐙 GitHub: [@ErikWebDeveloper](https://github.com/ErikWebDeveloper)
 - 🌐 Portfolio: [erikwebdeveloper.github.io](https://erikwebdeveloper.github.io/)
 

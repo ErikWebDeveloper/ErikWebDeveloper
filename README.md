@@ -45,7 +45,7 @@ Autodidacta, apasionado por la programación y siempre buscando **nuevos retos**
 
 ¡Estoy abierto a colaborar, aprender o simplemente charlar sobre ideas interesantes!  
 
-- 📧 Email: [erikcodedeveloper](mailto:erikcodedeveloper@gmail.com)
+- 📧 Email: [erikcodedeveloper@gmail.com](mailto:erikcodedeveloper@gmail.com)
 - 🐙 GitHub: [@ErikWebDeveloper](https://github.com/ErikWebDeveloper)
 - 🌐 Portfolio: [erikwebdeveloper.github.io](https://erikwebdeveloper.github.io/)
 

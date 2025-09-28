@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/erikwebdeveloper.png" alt="Erik Firmino" width="160" height="160" style="border-radius:99999px; margin-bottom:12px;">
-</p>
-
 <div align="center">
 
 # 👋 Hola, soy **Erik Firmino**
@@ -10,7 +6,7 @@
 
 🇦🇩 Andorra · ✉️ [Contacto](mailto:erikcodedeveloper@gmail.com) · 🌐 [Mi Portfolio](https://erikwebdeveloper.github.io/)
 
-Soy desarrollador web con más de **5 años de experiencia** creando aplicaciones y soluciones digitales.  
+Soy desarrollador web con más de **5 años de experiencia**, especializado en **JavaScript y TypeScript**, creando aplicaciones y soluciones digitales.  
 Autodidacta, apasionado por la programación y siempre buscando **nuevos retos** 🚀.
 
 </div>
@@ -59,5 +55,5 @@ Autodidacta, apasionado por la programación y siempre buscando **nuevos retos**
 </p>
 
 <p align="center">
-  🇯🇵 Arigato gozaimas! 🙏
+  <strong>🇯🇵 ありがとうございます 🙏</strong>
 </p>
